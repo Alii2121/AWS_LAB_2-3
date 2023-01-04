@@ -51,12 +51,13 @@ yum install -y httpd.x86_64
 systemctl start httpd.service
 systemctl enable httpd.service
 ```
+![Screenshot from 2023-01-04 20-14-52](https://user-images.githubusercontent.com/103090890/210631519-1d5e01a8-bb29-4d5c-87e0-4276a92a6811.png)
 
-![Screenshot from 2023-01-04 19-39-41](https://user-images.githubusercontent.com/103090890/210628995-a9ef45a6-d8b3-4305-b5e1-0935c7d311e8.png)
+
 
 ### NAT Gateway Details
 
-![Screenshot from 2023-01-04 20-16-55](https://user-images.githubusercontent.com/103090890/210629032-417b39ce-ea5f-4a28-917e-149d02303da6.png)
+![Screenshot from 2023-01-04 20-16-43](https://user-images.githubusercontent.com/103090890/210631545-4a4c6716-6328-438f-ae62-87fb6dc09daa.png)
 
 
 ### Public EC2 Details
