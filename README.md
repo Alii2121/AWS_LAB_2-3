@@ -3,9 +3,11 @@
 ## Creating EC2 instance inside a public subnet and connect it to Internet Gateway and then Create an EC2 in a private subnet and connect it with NAT and install Nginx without SSH.
 
 
+### Creating a VPC
 ![Screenshot from 2023-01-04 19-00-32](https://user-images.githubusercontent.com/103090890/210628769-566b3feb-42c6-49e1-8517-b5463618c746.jpg)
 
 
+### Creating 2 Subnets Private,Public
  
 ![Screenshot from 2023-01-04 19-01-37](https://user-images.githubusercontent.com/103090890/210628861-5beb43b4-2eb1-4434-9399-3f92f4286d0f.jpg)
 
