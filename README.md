@@ -2,11 +2,9 @@
 
 ## Creating EC2 instance inside a public subnet and connect it to Internet Gateway and then Create an EC2 in a private subnet and connect it with NAT and install Nginx without SSH.
 
-![Alt text]( file:///home/alimarawan/Pictures/Screenshots/Screenshot%20from%202023-01-04%2019-07-13.png
-?raw=true "Title")
+![Screenshot](Screenshot from 2023-01-04 19-13-03.png)
 
- file:///home/alimarawan/Pictures/Screenshots/Screenshot%20from%202023-01-04%2019-07-13.png
- file:///home/alimarawan/Pictures/Screenshots/Screenshot%20from%202023-01-04%2019-01-37.png
+
 
  file:///home/alimarawan/Pictures/Screenshots/Screenshot%20from%202023-01-04%2019-00-32.png
  
