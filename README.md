@@ -73,3 +73,34 @@ systemctl enable httpd.service
 ![Screenshot from 2023-01-04 20-17-12](https://user-images.githubusercontent.com/103090890/210631164-f75e9138-0d73-4b53-bacd-8e262c3f60c6.png)
 
 # LAB 3
+
+### Creating 2 Subnets Private and Public
+
+![Screenshot from 2023-01-04 21-49-14](https://user-images.githubusercontent.com/103090890/210637302-6b7c28c3-ff84-4c74-b6da-f97add83bd0b.png)
+![Screenshot from 2023-01-04 21-49-21](https://user-images.githubusercontent.com/103090890/210637316-5727025e-7e9a-47e2-9239-3e49399cfb4b.png)
+
+### Creating 2 NACL 
+![Screenshot from 2023-01-04 21-45-37](https![Screenshot from 2023-01-04 21-45-49](https://user-images.githubusercontent.com/103090890/210637471-d8e9c918-f05f-4e32-a6c2-7039acd070bf.png)
+
+
+
+![Screenshot from 2023-01-04 21-45-49](https://user-images.githubusercontent.com/103090890/210637506-93782aa7-567f-46cb-9854-ff97cc20567b.png)
+
+### Creating 2 EC2 one as A jump host 
+![Screenshot from 2023-01-04 21-45-05](https://user-images.githubusercontent.com/103090890/210637678-509c49a4-5195-40c2-8bba-f0985dc64ca6.png)
+![Screenshot from 2023-01-04 21-45-09](https://user-images.githubusercontent.com/103090890/210637688-4f58fbcd-b1e5-4096-8177-44f1f46e7337.png)
+
+### Creating Security Groups![Screenshot from 2023-01-04 21-46-27](https://user-images.githubusercontent.com/103090890/210637751-66ebef54-547b-46e1-af72-3fcf41889003.png)
+
+![Screenshot from 2023-01-04 21-46-13](https://user-images.githubusercontent.com/103090890/210637744-80a4c61e-953d-4c5b-b581-2c76f3174c6f.png)
+
+![Screenshot from 2023-01-04 21-30-09](https://user-images.githubusercontent.com/103090890/210637785-16b64c14-4ede-47c7-9731-1ede520754bb.png)
+
+
+![Screenshot from 2023-01-04 21-29-18](https://user-images.githubusercontent.com/103090890/210637772-3d6946d1-cf04-491b-9887-dbbbbcf51e30.png)
+
+
+## Then SSH into teh Jump Host with the key then use the Jump host to SSH to another
+
+
+# Thank You !
