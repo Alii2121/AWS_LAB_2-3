@@ -1,5 +1,6 @@
 # AWS_LAB_2-3
 
+# LAB 1
 ## Creating EC2 instance inside a public subnet and connect it to Internet Gateway and then Create an EC2 in a private subnet and connect it with NAT and install Nginx without SSH.
 
 
@@ -39,10 +40,6 @@
 
 
 
-### 2 Route Tables
-![Screenshot from 2023-01-04 19-25-44](https://user-images.githubusercontent.com/103090890/210628925-344c3f12-d56f-44e0-9031-ad8d2169a718.png)
-
-
 ### Nginx installed on EC2 in Private using user data =
 ```bash
 #!/bin/bash
@@ -75,4 +72,4 @@ systemctl enable httpd.service
 
 ![Screenshot from 2023-01-04 20-17-12](https://user-images.githubusercontent.com/103090890/210631164-f75e9138-0d73-4b53-bacd-8e262c3f60c6.png)
 
-
+# LAB 2
