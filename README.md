@@ -100,7 +100,7 @@ systemctl enable httpd.service
 ![Screenshot from 2023-01-04 21-29-18](https://user-images.githubusercontent.com/103090890/210637772-3d6946d1-cf04-491b-9887-dbbbbcf51e30.png)
 
 
-## Then SSH into teh Jump Host with the key then use the Jump host to SSH to another
+## Then SSH into the Jump Host with the key then use the Jump host to SSH to another
 
 
 # Thank You !
