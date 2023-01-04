@@ -1,7 +1,7 @@
 # AWS_LAB_2-3
 
 # LAB 2
-## Creating EC2 instance inside a public subnet and connect it to Internet Gateway and then Create an EC2 in a private subnet and connect it with NAT and install Nginx without SSH.
+## Creating EC2 instance inside a public subnet and connect it to Internet Gateway and then Create an EC2 in a private subnet and connect it with NAT and install Httpd without SSH.
 
 
 ### Creating a VPC
@@ -40,7 +40,7 @@
 
 
 
-### Nginx installed on EC2 in Private using user data =
+### Httpd installed on EC2 in Private using user data =
 ```bash
 #!/bin/bash
 yum update -y
