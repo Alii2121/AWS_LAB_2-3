@@ -80,7 +80,7 @@ systemctl enable httpd.service
 ![Screenshot from 2023-01-04 21-49-21](https://user-images.githubusercontent.com/103090890/210637316-5727025e-7e9a-47e2-9239-3e49399cfb4b.png)
 
 ### Creating 2 NACL 
-![Screenshot from 2023-01-04 21-45-37](https![Screenshot from 2023-01-04 21-45-49](https://user-images.githubusercontent.com/103090890/210637471-d8e9c918-f05f-4e32-a6c2-7039acd070bf.png)
+![Screenshot from 2023-01-04 21-45-49](https://user-images.githubusercontent.com/103090890/210637471-d8e9c918-f05f-4e32-a6c2-7039acd070bf.png)
 
 
 
